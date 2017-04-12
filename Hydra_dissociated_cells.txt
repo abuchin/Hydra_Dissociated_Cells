@@ -1,0 +1,15 @@
+Athina Keramidiotou
+
+Cell body size (it is the only metric we have!)
+Charlie told me that  a cell body is roughly 8 μm and he suggested to estimate the length
+ of the nerve processes by using this value. 
+ 
+Pixel size 
+ The answer to the first question is that maceration is highly possible that cuts the 
+ neurites and the mounting on the slide could cause the folding.
+ About the pixel size there are some difficulties to answer that accurately.
+ We used phase contrast microscope with 40x objective but we didn't pay attention to the 
+ configuration. We estimate that the pixel size is 0,22μm based on the size of the cell
+  body of the neurites which is 8-15μm . The images which are attached show the procedure.
+  
+  
